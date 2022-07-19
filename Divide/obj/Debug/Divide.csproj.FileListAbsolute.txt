@@ -1,0 +1,5 @@
+D:\Ravish\MethodCallFromAnotherClassandAnotherProject\Divide\bin\Debug\Divide.dll
+D:\Ravish\MethodCallFromAnotherClassandAnotherProject\Divide\bin\Debug\Divide.pdb
+D:\Ravish\MethodCallFromAnotherClassandAnotherProject\Divide\obj\Debug\Divide.csproj.CoreCompileInputs.cache
+D:\Ravish\MethodCallFromAnotherClassandAnotherProject\Divide\obj\Debug\Divide.dll
+D:\Ravish\MethodCallFromAnotherClassandAnotherProject\Divide\obj\Debug\Divide.pdb
